@@ -171,7 +171,7 @@ body {
   animation: fadeIn 1s 0.3s ease both;
 }
 .photo-container {
-  position: relative; width: 800px; height: 800px;
+  position: relative; width: 300px; height: 300px;
 }
 .photo-ring {
   position: absolute; inset: -10px; border-radius: 50%;
@@ -518,4 +518,5 @@ footer span { color: var(--primary); font-weight: 600; }
   .floating-badge { font-size: 11px; padding: 6px 12px; }
   .badge3 { display: none; }
 }
+
 
